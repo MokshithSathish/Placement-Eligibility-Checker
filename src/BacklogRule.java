@@ -9,4 +9,3 @@ public class BacklogRule extends EligibilityRule {
         return candidate.getBacklogs() <= job.getMaximumBacklogs();
     }
 }
-

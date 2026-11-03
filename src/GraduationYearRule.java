@@ -9,4 +9,3 @@ public class GraduationYearRule extends EligibilityRule {
         return candidate.getGraduationYear() == job.getRequiredGraduationYear();
     }
 }
-

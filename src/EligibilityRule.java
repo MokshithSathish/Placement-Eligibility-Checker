@@ -3,4 +3,3 @@ public abstract class EligibilityRule {
 
     public abstract boolean check(Candidate candidate, Job job);
 }
-

@@ -9,4 +9,3 @@ public class PercentageRule extends EligibilityRule {
         return candidate.getPercentage() >= job.getMinimumPercentage();
     }
 }
-
